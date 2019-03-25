@@ -13,6 +13,7 @@ class App extends Component {
     console.log("asdasdasd123123");
     console.log("Kebab case!: ", kebabCase);
     alert("AAAAAAAA this button does nothing!");
+    alert("FORKED!");
   };
 
   render() {

@@ -14,6 +14,7 @@ class App extends Component {
     console.log("Kebab case!: ", kebabCase);
     alert("AAAAAAAA this button does nothing!");
     alert("FORKED!");
+    alert("FORKED!2");
   };
 
   render() {
